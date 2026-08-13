@@ -1,0 +1,12 @@
+# Backend (Go)
+backend/tasks.json
+backend/*.exe
+
+# Frontend (Node/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS/editor
+.DS_Store
+.vscode/
