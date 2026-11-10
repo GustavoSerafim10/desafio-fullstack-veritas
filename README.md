@@ -4,7 +4,14 @@ Quadro Kanban full stack (React + Go) desenvolvido para a etapa de Desafio Prát
 
 O objetivo era entregar, em prazo curto, uma aplicação completa: interface, API REST, validação e persistência.
 
+![Quadro Kanban com tarefas de exemplo](docs/kanban.png)
+
+<details>
+<summary>Fluxo do usuário</summary>
+
 ![Fluxo do usuário](docs/user-flow.svg)
+
+</details>
 
 ## Funcionalidades
 
